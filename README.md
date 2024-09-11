@@ -2,27 +2,28 @@
 Hello, I am **𝗔𝗸𝗮𝘀𝗵 𝗡𝗲𝗴𝗶**, I am from Dehradun. I have completed my **𝗠𝗖𝗔** from **𝗚𝗿𝗮𝗽𝗵𝗶𝗰 𝗘𝗿𝗮 𝗛𝗶𝗹𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗗𝗲𝗵𝗿𝗮𝗱𝘂𝗻** on June 2024. I am interested in problem-solving and web development.
 
 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗗𝗮𝘁𝗮𝗕𝗮𝘀𝗲𝘀 -
-• C++
-• Java
-• Python
-• MySQL
+  - C++
+  - Java
+  - Python
+  - MySQL
 
 - 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 -
-• HTML
-• CSS
-• JavaScript
-• ReactJS
+  - HTML
+  - CSS
+  - JavaScript
+  - ReactJS
 
 - 𝗖𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 -
-• Object-Oriented Programming
-• Database Management System
-• Operating System
-• Computer Networks
-• Data Structures and Algorithms
+  - Object-Oriented Programming
+  - Database Management System
+  - Operating System
+  - Computer Networks
+  - Data Structures and Algorithms
+  - Software Testing
 
 - 𝗧𝗼𝗼𝗹𝘀 -
-• VS Code
-• Git & GitHub
+  - VS Code
+  - Git & GitHub
 
 - 👋 Hi, I’m @AKASHNEGI-github
 - 📫 Gmail - aakashnegi40@gmail.com
