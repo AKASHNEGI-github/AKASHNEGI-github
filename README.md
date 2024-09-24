@@ -1,6 +1,6 @@
-👋
+# 👋
 
-Hello, I am **𝗔𝗸𝗮𝘀𝗵 𝗡𝗲𝗴𝗶**, I am from Dehradun. I have completed my **𝗠𝗖𝗔** from **𝗚𝗿𝗮𝗽𝗵𝗶𝗰 𝗘𝗿𝗮 𝗛𝗶𝗹𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗗𝗲𝗵𝗿𝗮𝗱𝘂𝗻** on June 2024. I am interested in problem-solving and web development.
+Hello, I am **𝗔𝗸𝗮𝘀𝗵 𝗡𝗲𝗴𝗶**, I am from Dehradun. I have completed **𝗠𝗖𝗔** from **𝗚𝗿𝗮𝗽𝗵𝗶𝗰 𝗘𝗿𝗮 𝗛𝗶𝗹𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗗𝗲𝗵𝗿𝗮𝗱𝘂𝗻** on June 2024. I am interested in problem-solving and web development.
 
 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗗𝗮𝘁𝗮𝗕𝗮𝘀𝗲𝘀 -
   - C++
@@ -20,7 +20,7 @@ Hello, I am **𝗔𝗸𝗮𝘀𝗵 𝗡𝗲𝗴𝗶**, I am from Dehradun. I hav
   - Operating System
   - Computer Networks
   - Data Structures and Algorithms
-  - Software Testing
+  - Software Development & Software Testing
 
 - 𝗧𝗼𝗼𝗹𝘀 -
   - VS Code
